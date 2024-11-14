@@ -1,18 +1,28 @@
-[![Logan's GitHub Commit Streak](https://github-readme-streak-stats.herokuapp.com/?user=Logan-Kelsch&theme=dark)](https://github.com/Logan-Kelsch) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Logan-Kelsch&layout=compact&theme=dark)
+#👋 Hello, I’m @Logan-Kelsch
 
-- 👋 Hi, I’m @Logan-Kelsch
-- 🔮 Current Project: Building an LSTM Regression model for highly complex Stock Market dataset
-- 🏅 Proficient in: Python, C++ and C. Experienced in: Java, BASH
+#📚🌱 
+I am a Junior at Salisbury University, Majoring in Computer Science (AI) and Data Science (Computational Data)
 
-- 📚 Junior at Salisbury University, Majoring in Computer Science (AI) and Data Science (Computational Data)
-- 🌱 Currently studying: Data Visualization & Machine Learning, AI, Systems Software, Theory of Computation 
-- 💼 You can reach me at my email: lkelsch1@gulls.salisbury.edu
+I am Currently studying: 
+  Data Visualization & Machine Learning
+  Artificial Intelligence
+  Systems Software
+  Theory of Computation 
 
+#🏅 Programming Languages
+  Proficient in: Python,  C++,    C
+  Experience in: Java,    BASH
+
+#🔮 Current Project: 
+  Building an LSTM Regression model for highly complex Stock Market dataset
+
+#💼 Contact Information:
+  You can reach me at my email: lkelsch1@gulls.salisbury.edu
 
 ### My GitHub Stats
 <p align="center">
   <a href="https://github.com/Logan-Kelsch">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Logan-Kelsch&theme=dark&border=ba0000&background=0D1117" alt="Logan's GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Logan-Kelsch&theme=dark&border=ba0000" alt="Logan's GitHub streak"/>
   </a>
 </p>
 
