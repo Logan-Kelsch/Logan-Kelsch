@@ -12,17 +12,17 @@
 ### My GitHub Stats
 <p align="center">
   <a href="https://github.com/Logan-Kelsch">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Logan-Kelsch&theme=dark" alt="Logan's GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Logan-Kelsch&theme=dark&border=ba0000&background=0D1117" alt="Logan's GitHub streak"/>
   </a>
 </p>
 
 <a> 
-    <a href="https://github.com/Logan-Kelsch"><img alt="Logan's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Logan-Kelsch&show_icons=true&count_private=true&theme=react&border_color=850000&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/Logan-Kelsch"><img alt="Logan's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Logan-Kelsch&langs_count=8&layout=compact&theme=react&border_color=850000&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/Logan-Kelsch"><img alt="Logan's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Logan-Kelsch&show_icons=true&count_private=true&theme=react&border_color=ba0000&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/Logan-Kelsch"><img alt="Logan's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Logan-Kelsch&langs_count=8&layout=compact&theme=react&border_color=ba0000&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 
-![Logan's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Logan-Kelsch&custom_title=Logan's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=850000&line=850000&point=850000&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Logan's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Logan-Kelsch&custom_title=Logan's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=ba0000&line=850000&point=ba0000&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 
 <!---
