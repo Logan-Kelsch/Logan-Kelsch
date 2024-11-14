@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @Logan-Kelsch
 [![Logan's GitHub Commit Streak](https://github-readme-streak-stats.herokuapp.com/?user=Logan-Kelsch&theme=dark)](https://github.com/Logan-Kelsch) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Logan-Kelsch&layout=compact&theme=dark)
 
-Work in progress!
-
+- 👋 Hi, I’m @Logan-Kelsch
 - 🔮 Current Project: Building an LSTM Regression model for highly complex Stock Market dataset
-- 🏅 Proficient in: C++ and Python. Experience with: C, Java, BASH
+- 🏅 Proficient in: Python, C++ and C. Experienced in: Java, BASH
 
 - 📚 Junior at Salisbury University, Majoring in Computer Science (AI) and Data Science (Computational Data)
 - 🌱 Currently studying: Data Visualization & Machine Learning, AI, Systems Software, Theory of Computation 
