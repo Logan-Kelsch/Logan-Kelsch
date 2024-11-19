@@ -1,36 +1,63 @@
 # Hello, I’m @Logan-Kelsch 👋
 
-📚 I am a Junior at Salisbury University, Majoring in Computer Science (AI) and Data Science (Computational Data)
-💼 You can reach me at my email: lkelsch1@gulls.salisbury.edu
+### 📚 I am a Junior at Salisbury University, Majoring in Computer Science (AI) and Data Science (Computational Data)
+### 💼 You can reach me at my email: lkelsch1@gulls.salisbury.edu
 
 <details>
 <summary>
   🌱 Currrently Studying
 </summary> 
-  - Data Visualization & Machine Learning
-  - Artificial Intelligence
-  - Systems Software
-  - Theory of Computation 
+  <br>
+  - Data Visualization & Machine Learning<br>
+  - Artificial Intelligence<br>
+  - Systems Software<br>
+  - Theory of Computation<br> 
 </details>
 
 <details>
   <summary>
     🏅 Programming Languages
   </summary>
-    Proficient in: Python,  C++,    C
-    Experience in: Java,    BASH
+  <br>
+    Proficient in: Python,  C++,    C <br>
+    Experience in: Java,    BASH <br>
 </details>
 
 <details>
   <summary>
     🔮 Current Project
   </summary>
-  Building an LSTM Regression model for highly complex Stock Market dataset
+  <br>
+  I am currently constructing a model for Stock Market Forcasting including: <br>
+  - Data Scraping <br>
+  - Data Cleaning <br>
+  - Feature Engineering <br>
+  - LSTM Data Formatting <br>
+  - NN Architecture Developing <br>
+  - Deep Analysis of Model Effectiveness <br>
+  - Regression Model Construction <br>
+  - Class / Multiclass Model Construction <br>
+  - Overall Performance Observation and Optimization<br>
+  <br>
 </details>
 
 <details>
   <summary>
-   My GitHub Stats
+    ✔ Completed Programming Relevant Courses
+  </summary>
+  Salisbury University:<br>
+  - ADVANCED DATA STRUCTURES<br>
+  - MICROCOMPUTER ORGANIZATION<br>
+  - DISCRETE MATHEMATICS<br>
+  - LINEAR ALGEBRA<br>
+  - COMPUTER SCIENCE II<br>
+  - COMPUTER SCIENCE I<br>
+  - PROGRAMMING FUNDAMENTALS<br>
+</details>
+
+<details>
+  <summary>
+   🌐 My GitHub Stats
   </summary>
 <p align="center">
   <a href="https://github.com/Logan-Kelsch">
