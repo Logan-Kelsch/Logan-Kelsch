@@ -1,26 +1,37 @@
-#👋 Hello, I’m @Logan-Kelsch
+# Hello, I’m @Logan-Kelsch 👋
+
+📚 I am a Junior at Salisbury University, Majoring in Computer Science (AI) and Data Science (Computational Data)
+💼 You can reach me at my email: lkelsch1@gulls.salisbury.edu
 
 <details>
-#📚🌱 
-I am a Junior at Salisbury University, Majoring in Computer Science (AI) and Data Science (Computational Data)
+<summary>
+  🌱 Currrently Studying
+</summary> 
+  - Data Visualization & Machine Learning
+  - Artificial Intelligence
+  - Systems Software
+  - Theory of Computation 
+</details>
 
-I am Currently studying: 
-  Data Visualization & Machine Learning
-  Artificial Intelligence
-  Systems Software
-  Theory of Computation 
+<details>
+  <summary>
+    🏅 Programming Languages
+  </summary>
+    Proficient in: Python,  C++,    C
+    Experience in: Java,    BASH
+</details>
 
-#🏅 Programming Languages
-  Proficient in: Python,  C++,    C
-  Experience in: Java,    BASH
-
-#🔮 Current Project: 
+<details>
+  <summary>
+    🔮 Current Project
+  </summary>
   Building an LSTM Regression model for highly complex Stock Market dataset
+</details>
 
-#💼 Contact Information:
-  You can reach me at my email: lkelsch1@gulls.salisbury.edu
-
-### My GitHub Stats
+<details>
+  <summary>
+   My GitHub Stats
+  </summary>
 <p align="center">
   <a href="https://github.com/Logan-Kelsch">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Logan-Kelsch&theme=dark&border=ba0000" alt="Logan's GitHub streak"/>
