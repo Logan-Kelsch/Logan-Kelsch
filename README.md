@@ -1,5 +1,6 @@
 #👋 Hello, I’m @Logan-Kelsch
 
+<details>
 #📚🌱 
 I am a Junior at Salisbury University, Majoring in Computer Science (AI) and Data Science (Computational Data)
 
@@ -34,6 +35,7 @@ I am Currently studying:
 
 ![Logan's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Logan-Kelsch&custom_title=Logan's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=ba0000&line=850000&point=ba0000&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
+</details>
 
 <!---
 - 👀 I’m interested in 
