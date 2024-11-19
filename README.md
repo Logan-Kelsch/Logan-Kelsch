@@ -5,7 +5,7 @@
 
 <details>
 <summary>
-  🌱 Currrently Studying
+  🌱 Currently Studying
 </summary> 
   <br>
   - Data Visualization & Machine Learning<br>
@@ -45,6 +45,7 @@
   <summary>
     ✔ Completed Programming Relevant Courses
   </summary>
+  <br>
   Salisbury University:<br>
   - ADVANCED DATA STRUCTURES<br>
   - MICROCOMPUTER ORGANIZATION<br>
@@ -53,6 +54,7 @@
   - COMPUTER SCIENCE II<br>
   - COMPUTER SCIENCE I<br>
   - PROGRAMMING FUNDAMENTALS<br>
+  <br>
 </details>
 
 <details>
