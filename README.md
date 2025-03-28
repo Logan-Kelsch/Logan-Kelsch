@@ -1,17 +1,18 @@
 # Hello, I’m @Logan-Kelsch 👋
 
-### 📚 I am a Junior at Salisbury University, Majoring in Computer Science (AI) and Data Science (Computational Data)
-### 💼 You can reach me at my email: lkelsch1@gulls.salisbury.edu
+### 🌐 I am a Computational Intelligence fanatic!
+#### 📚 I am a Junior at Salisbury University, Majoring in Computer Science (AI) and Data Science (Computational Data)
+#### 💼 You can reach me at my email: lkelsch1@gulls.salisbury.edu
 
 <details>
 <summary>
   🌱 Currently Studying
 </summary> 
   <br>
-  - Data Visualization & Machine Learning<br>
-  - Artificial Intelligence<br>
-  - Systems Software<br>
-  - Theory of Computation<br> 
+  - Operating Systems<br>
+  - Computer Networks<br>
+  - Database Design & Implementation<br>
+  - Software Engineering 1
 </details>
 
 <details>
@@ -19,8 +20,8 @@
     🏅 Programming Languages
   </summary>
   <br>
-    Proficient in: Python,  C++,    C <br>
-    Experience in: Java,    BASH <br>
+    Proficient in: C, Python, C++, BASH<br>
+    Experience in: Java, mySQL, PHP, JavaScript<br>
 </details>
 
 <details>
@@ -29,8 +30,8 @@
   </summary>
   <br>
   I am currently constructing a model for Stock Market Forcasting including: <br>
-  - Data Scraping <br>
-  - Data Cleaning <br>
+  - Developing Custom Multi-Level Neural Networks<br>
+  - Developing Multi-Level Genetic Algorithms<br>
   - Feature Engineering <br>
   - LSTM Data Formatting <br>
   - NN Architecture Developing <br>
@@ -38,6 +39,8 @@
   - Regression Model Construction <br>
   - Class / Multiclass Model Construction <br>
   - Overall Performance Observation and Optimization<br>
+  - Data Scraping <br>
+  - Data Cleaning <br>
   <br>
 </details>
 
@@ -54,6 +57,10 @@
   - COMPUTER SCIENCE II<br>
   - COMPUTER SCIENCE I<br>
   - PROGRAMMING FUNDAMENTALS<br>
+  - DATA VISUALIZATION & MACHINE LEARNING<br>
+  - ARTIFICIAL INTELLIGENCE<br>
+  - SYSTEM SOFTWARE<br>
+  - THEORY OF COMPUTATION
   <br>
 </details>
 
