@@ -1,7 +1,7 @@
 # Hello, I’m @Logan-Kelsch 👋
 
 ### 🌐 I am a Computational Intelligence fanatic!
-#### 📚 I am a Junior at Salisbury University, Majoring in Computer Science (AI) and Data Science (Computational Data)
+#### 📚 I am a Senior at Salisbury University, Majoring in Computer Science (AI) and Data Science (Computational Data)
 #### 💼 You can reach me at my email: lkelsch1@gulls.salisbury.edu
 
 <details>
@@ -9,10 +9,10 @@
   🌱 Currently Studying
 </summary> 
   <br>
-  - Operating Systems<br>
-  - Computer Networks<br>
-  - Database Design & Implementation<br>
-  - Software Engineering 1
+  - Research Methods In Data Science<br>
+  - High Performance Computing<br>
+  - Software Engineering 2<br>
+  - Biology
 </details>
 
 <details>
@@ -29,6 +29,7 @@
     🔮 Current Project
   </summary>
   <br>
+  NOT YET UPDATED: Please reach out for more information.<br>
   I am currently constructing a model for Stock Market Forcasting including: <br>
   - Developing Custom Multi-Level Neural Networks<br>
   - Developing Multi-Level Genetic Algorithms<br>
@@ -60,7 +61,11 @@
   - DATA VISUALIZATION & MACHINE LEARNING<br>
   - ARTIFICIAL INTELLIGENCE<br>
   - SYSTEM SOFTWARE<br>
-  - THEORY OF COMPUTATION
+  - THEORY OF COMPUTATION<br>
+  - OPERATING SYSTEMS<br>
+  - COMPUTER NETWORKS<br>
+  - DATABASE DESIGN & IMPLEMENTATION<br>
+  - SOFTWARE ENGINEERING 1
   <br>
 </details>
 
