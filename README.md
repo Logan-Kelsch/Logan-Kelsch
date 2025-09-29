@@ -21,7 +21,7 @@
   </summary>
   <br>
     Proficient in: C, Python, C++, BASH<br>
-    Experience in: Java, mySQL, PHP, JavaScript<br>
+    Experience in: Java, mySQL, PHP, JavaScript, TypeScript, HTML, SQL <br>
 </details>
 
 <details>
