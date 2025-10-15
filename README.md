@@ -73,18 +73,35 @@
   <summary>
    🌐 My GitHub Stats
   </summary>
-<p align="center">
-  <a href="https://github.com/Logan-Kelsch">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Logan-Kelsch&theme=dark&border=ba0000" alt="Logan's GitHub streak"/>
-  </a>
-  <a href="https://github.com/Logan-Kelsch"><img alt="Logan's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Logan-Kelsch&langs_count=8&layout=compact&theme=react&border_color=ba0000&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-</p>
+<div align="center">
+  <table border="0" style="border: none; outline: none;">
+    <tr>
+      <td align="center" style="border:none;">
+        <a href="https://git.io/streak-stats">
+          <img
+            alt="Logan's GitHub Streak"
+            src="https://github-readme-streak-stats-eight.vercel.app?user=Logan-Kelsch&theme=tokyonight&hide_border=true&date_format=M%20j&card_width=400&v=2025-10-14-1"
+          />
+         <!-- If the image above still shows broken, replace the src with the line below -->
+        <!-- src="[https://github-readme-streak-stats-eight.vercel.app?user=Jairik&theme=tokyonight&hide_border=true&date_format=M%20j&card_width=400&v=2025-10-14-1](https://streak-stats.demolab.com?user=Jairik&theme=tokyonight&hide_border=true&date_format=M%20j&card_width=400&v=2025-10-14-1)"
+         -->
+        </a>
+      </td>
+      <td align="center">
+        <img
+          alt="Top Languages"
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=Logan-Kelsch&layout=compact&theme=tokyonight&hide_border=true&v=1"
+        />
+      </td>
+    </tr>
+  </table>
+</div>
 
 <a> 
   
 </a>
 
-![Logan's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Logan-Kelsch&custom_title=Logan's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=ba0000&line=850000&point=ba0000&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Logan's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Logan-Kelsch&custom_title=Logan's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=00ba00&line=008500&point=ba00&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 </details>
 
