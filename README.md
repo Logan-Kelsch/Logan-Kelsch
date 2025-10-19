@@ -101,7 +101,7 @@
   
 </a>
 
-![Logan's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Logan-Kelsch&custom_title=Logan's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=00ba00&line=008500&point=ba00&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Logan's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Logan-Kelsch&custom_title=Logan's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=70A5FD&line=70A5FD&point=ba00&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 </details>
 
