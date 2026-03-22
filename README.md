@@ -1,212 +1,103 @@
-# Hello, I’m @Logan-Kelsch 👋
+# Logan Kelsch
 
-### 🌐 I am a Computational Intelligence fanatic!
-#### 📚 I am a Senior at Salisbury University, Majoring in Computer Science (AI) and Data Science (Computational Data)
-#### 💼 You can reach me at my email: lkelsch1@gulls.salisbury.edu
+**AI / ML Engineer | Computational Intelligence | Research-Driven Builder**
 
-<details>
-<summary>
-  🌱 Currently Studying
-</summary> 
-  <br>
-  - Research Methods In Data Science<br>
-  - High Performance Computing<br>
-  - Software Engineering 2<br>
-  - Biology
-</details>
+I’m a senior at **Salisbury University** graduating in **May 2026**, focused on building intelligent systems that do more than fit data. My work lives at the intersection of **machine learning**, **optimization**, **symbolic regression**, **computer vision**, and **LLM-supported decision systems**.
 
-<details>
-  <summary>
-    🏅 Programming Languages
-  </summary>
-  <br>
-    Proficient in: C, Python, C++, BASH<br>
-    Experience in: Java, mySQL, PHP, JavaScript, TypeScript, HTML, SQL <br>
-</details>
+I’m especially interested in problems that require **reasoning under uncertainty**, **strong validation**, and **real-world deployment**. I've already heavily explored spaces from financial-model discovery pipelines to medical triage agents and vision systems for applied detection/counting.
 
-<details>
-  <summary>
-    🔮 Current Project
-  </summary>
-  <br>
-  NOT YET UPDATED: Please reach out for more information.<br>
-  I am currently constructing a model for Stock Market Forcasting including: <br>
-  - Developing Custom Multi-Level Neural Networks<br>
-  - Developing Multi-Level Genetic Algorithms<br>
-  - Feature Engineering <br>
-  - LSTM Data Formatting <br>
-  - NN Architecture Developing <br>
-  - Deep Analysis of Model Effectiveness <br>
-  - Regression Model Construction <br>
-  - Class / Multiclass Model Construction <br>
-  - Overall Performance Observation and Optimization<br>
-  - Data Scraping <br>
-  - Data Cleaning <br>
-  <br>
-</details>
+---
 
-<details>
-  <summary>
-    ✔ Completed Programming Relevant Courses
-  </summary>
-  <br>
-  Salisbury University:<br>
-  - ADVANCED DATA STRUCTURES<br>
-  - MICROCOMPUTER ORGANIZATION<br>
-  - DISCRETE MATHEMATICS<br>
-  - LINEAR ALGEBRA<br>
-  - COMPUTER SCIENCE II<br>
-  - COMPUTER SCIENCE I<br>
-  - PROGRAMMING FUNDAMENTALS<br>
-  - DATA VISUALIZATION & MACHINE LEARNING<br>
-  - ARTIFICIAL INTELLIGENCE<br>
-  - SYSTEM SOFTWARE<br>
-  - THEORY OF COMPUTATION<br>
-  - OPERATING SYSTEMS<br>
-  - COMPUTER NETWORKS<br>
-  - DATABASE DESIGN & IMPLEMENTATION<br>
-  - SOFTWARE ENGINEERING 1
-  <br>
-</details>
+## What I’m working on (Several Private Repositiories, feel free to reach out with questions)
 
-<details>
-  <summary>
-   🌐 My GitHub Stats
-  </summary>
-<div align="center">
-  <table border="0" style="border: none; outline: none;">
-    <tr>
-      <td align="center" style="border:none;">
-        <a href="https://git.io/streak-stats">
-          <img
-            alt="Logan's GitHub Streak"
-            src="https://github-readme-streak-stats-eight.vercel.app?user=Logan-Kelsch&theme=tokyonight&hide_border=true&date_format=M%20j&card_width=400&v=2025-10-14-1"
-          />
-         <!-- If the image above still shows broken, replace the src with the line below -->
-        <!-- src="[https://github-readme-streak-stats-eight.vercel.app?user=Jairik&theme=tokyonight&hide_border=true&date_format=M%20j&card_width=400&v=2025-10-14-1](https://streak-stats.demolab.com?user=Jairik&theme=tokyonight&hide_border=true&date_format=M%20j&card_width=400&v=2025-10-14-1)"
-         -->
-        </a>
-      </td>
-      <td align="center">
-        <img
-          alt="Top Languages"
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=Logan-Kelsch&layout=compact&theme=tokyonight&hide_border=true&v=1"
-        />
-      </td>
-    </tr>
-  </table>
-</div>
+- Building **AI/ML systems** that combine modeling, search, validation, and practical software engineering
+- Exploring **symbolic regression + grammatical evolution** for financial time-series structure discovery
+- Developing **LLM-supported healthcare triage workflows** with probabilistic dialogue refinement
+- Creating **computer vision pipelines** that turn raw model outputs into more reliable downstream predictions
 
-<a> 
-  
-</a>
+---
 
-![Logan's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Logan-Kelsch&custom_title=Logan's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=70A5FD&line=70A5FD&point=ba00&area_color=FFFFFF&title_color=FFFFFF&area=true)
+## Selected work
 
-</details>
+### Women’s Health AI Triage Assistant
+**1st Place — Rutgers Health Hack 2025 | Continued development contract | Sole AI/ML engineer**
 
-<!---
-- 👀 I’m interested in 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 You can reach me through email! (lkelsch1@gulls.salisbury.edu)
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Built an AI-supported OB/GYN triage system designed to interpret patient language, refine predictions through guided dialogue, and support subspecialty routing. I developed the core AI/ML logic, including custom NLP-style interpretation and probabilistic conversation guidance, and later helped evolve the system toward an LLM-supported deployment pitch.
 
+**Core themes:** NLP, decision logic, uncertainty refinement, healthcare workflow support, deployment-minded prototyping
 
-# Hi everyone :wave:
+---
 
-I'm a software engineer from Czechia, hacking things together @ [Gitpod](https://gitpod.io/).
+### Automated Discovery of Predictive Structures in Financial Market Behavior
+**Undergraduate research | ~10k LOC private repository**
 
+Developed a Python pipeline using **NumPy** and **Numba** to automatically generate, optimize, validate, and group predictive models for financial data. The system explored model structure discovery at scale and used **Shapley-value-based ensemble methods** to combine strong candidates into a more coherent forecasting framework.
 
-<details>
-<summary>
-  More stuff about me
-</summary>
+**Core themes:** genetic programming, symbolic regression, ensemble systems, Monte Carlo validation, time-series research
 
-## Quick overview
+---
 
+### Stochastic Grammar Optimization of Financial Market Behavior
+**Data Science Capstone | In development**
 
-#### GitHub stats 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=filiptronicek&show_icons=true&line_height=27&include_all_commits=true" alt="My github stats" />
-</a>  
+Current capstone project focused on combining **symbolic regression** and **grammatical evolution** to study how structured search spaces can improve efficiency in time-series model generation.
 
+**Core themes:** search-space design, grammatical evolution, symbolic regression, computational experimentation
 
- (also from a project I have contributed to, [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats))
-- I write a [blog](https://blog.trnck.dev/)
+---
 
-Biggest supporters of my OSS work ($25 or more in [my tiers](https://github.com/sponsors/filiptronicek/)):
-- [Kyle Daigle](https://github.com/kdaigle)
+### Chick Counting Software
+**Computer vision project for applied detection/counting**
 
+Trained an **Ultralytics YOLO** model on complex visual data for object detection and counting, then built downstream meta-models that used YOLO emissions as structured features. Validation showed substantial reduction in both prediction error and error variance.
 
-### What I do
+**Core themes:** computer vision, object detection, post-model feature engineering, statistical validation
 
-I do Open Source. In fact, I do Open Source so much, that 95% of my work on
-GitHub is free and open to everyone. I am really passionate about doing web
-development, it is in my opinion the best combination of logical programming and
-(sometimes) beautiful design.
+---
 
-## My skills 📜
+### Multi-Layered Rotational Ensemble Neural Network
+Designed a multi-stage neural-network experimentation pipeline that rotates across feature/time partitions, trains multiple models, and aggregates emissions into higher-level meta-model outputs.
 
-### Web technologies
+**Core themes:** ensemble architecture, time-series modeling, feature segmentation, neural-network experimentation
 
-- JavaScript
-  ([LinkedIn Assesments Certified](https://www.linkedin.com/in/filiptronicek/))
-- TypeScript
-- Next.js
-- Prisma
-- HTML, CSS
-  ([Microsoft Certified](https://www.youracclaim.com/badges/6d5a4a58-c895-4d7e-a725-db1441e9d979/public_url))
-- SCSS
-- Node.js ([LinkedIn Assesments Certified](https://www.linkedin.com/in/filiptronicek/))
-- Deno
-- WordPress
-  ([LinkedIn Assesments Certified](https://www.linkedin.com/in/filiptronicek/))
-- PHP
-- MySQL
-- Microsoft Azure ([AZ 900 Certification](https://www.credly.com/badges/1da5ef87-dc8f-4aeb-8870-c19d0e020895/public_url))
+---
 
-### Application Development
+## Technical toolkit
 
-- Python ([Microsoft Certified](https://www.youracclaim.com/badges/46b260a8-ef2c-41a3-9f61-aa0920eab84a/public_url))
-- C++ (sort of)
+**Languages**  
+Python, C, C++, Bash, Java, JavaScript, HTML, R, SQL
 
-### Productivity utilities
+**Libraries / Frameworks**  
+NumPy, Numba, Pandas, TensorFlow, Keras, PyTorch, scikit-learn, Ultralytics
 
-- Microsoft Office - I am a Certified
-  [Excel](https://www.youracclaim.com/badges/36154164-82b5-4fbf-b65c-c152af720245/public_url)
-  and
-  [Word](https://www.youracclaim.com/badges/6f4eee1d-3379-4a8b-b846-35762708d4b8/public_url)
-  Expert
+**Focus areas**  
+Machine Learning, Genetic Programming, Symbolic Regression, Model Validation, Computer Vision, Monte Carlo Methods, Optimization, Data Structuring
 
-### Languages 🌐
+**Tools**  
+Git, Linux, WSL, VS Code, CUDA
 
-| Language      | Proficiency                                                               |
-| ------------- | ------------------------------------------------------------------------- |
-| English (duh) | C2 ([EFSET certified](https://www.efset.org/cert/5P5Pp1))                 |
-| German        | B1 ([DSD Certificate](https://www.goethe.de/en/spr/kup/prf/prf/gb1.html)) |
-| Czech         | Native language                                                           |
+---
 
-## What I'm currently learning 📚
+## Leadership and background
 
-- Diving into VS Code's code base
-- Typescript's magic
-- Rust's blazing-fastness
+- **President, AI Club** at Salisbury University
+- **Computer Science tutor and lab assistant** across 100–400 level coursework
+- **NCAA All-American** in discus
+- 2x NCAA championship qualifier, school-record holder, and multi-time conference champion
 
-## My own dictionary 📕:
+I care a lot about disciplined iteration, building from first principles, and turning messy real-world problems into systems that can actually be tested and improved.
 
-| Word / abreviation | Meaning                                                | Note                                             |
-| ------------------ | ------------------------------------------------------ | ------------------------------------------------ |
-| FFO                | Fífa Friendly Office (a place where I can work safely) | Idea by [@aellopos](https://github.com/aellopos) |
+---
 
-</details>
+## What you’ll find here
 
---->
+This profile includes a mix of coursework repositories, experiments, and smaller public projects. Much of my strongest current AI/ML work is in **private research or team repositories**, so if you’re interested in a project mentioned here, feel free to reach out.
 
+---
 
+## Connect
 
+- **Email:** 7logankelsch5@gmail.com
+- **LinkedIn:** [linkedin.com/in/logan-kelsch](https://www.linkedin.com/in/logan-kelsch)
 
-
-
-
+I’m currently looking for opportunities in **AI/ML engineering, applied machine learning, and software engineering** where I can contribute as a builder, researcher, and fast learner.
